@@ -1,11 +1,11 @@
 # DBCONNECTION
-## BASIC CONNECTION
+### BASIC CONNECTION
 * Seasdasdasdasd
-## BASIC CONNECTION WITH RESOURCES
+### BASIC CONNECTION WITH RESOURCES
 * asdasdasdasd
-## BASIC CONNECTION SINGLETON
+### BASIC CONNECTION SINGLETON
 * SDFSDF
-## CONNECTION POOL
+### CONNECTION POOL
 * DSF
 # MYSQL
 * Se inserto un registro del usuario, con su respectiva contraseña encriptada
